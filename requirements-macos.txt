@@ -1,0 +1,16 @@
+# macOS-specific dependencies
+appscript>=1.2.0
+pyobjc-core>=8.5
+pyobjc-framework-webkit>=8.5
+
+# Common dependencies from Linux version
+six
+pytz
+deproto
+urllib3
+python-dateutil
+requests
+tldextract
+lxml
+dateparser
+html2text 

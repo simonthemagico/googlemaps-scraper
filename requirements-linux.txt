@@ -1,0 +1,11 @@
+# Linux-specific dependencies
+six
+pytz
+deproto
+urllib3
+python-dateutil
+requests
+tldextract
+lxml
+dateparser
+html2text

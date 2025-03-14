@@ -1,0 +1,16 @@
+# Windows-specific dependencies
+pywin32>=305
+msedge-selenium-tools>=3.141.4
+wincertstore>=0.2
+
+# Common dependencies from Linux version
+six
+pytz
+deproto
+urllib3
+python-dateutil
+requests
+tldextract
+lxml
+dateparser
+html2text 
